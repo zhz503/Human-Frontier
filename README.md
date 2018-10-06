@@ -6,5 +6,7 @@
 •	Tested the influences of different imaging qualities on 3D modeling   
 •	Inspired by GPS and found an innovative and effective Theory to calculate the minimum scanned pictures required for 3D modeling  
 
-### Some Accomplishment:  
+### My Accomplishments:  
+1. User Manual :  
+
 
