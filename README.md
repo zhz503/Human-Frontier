@@ -12,7 +12,7 @@ https://github.com/zhz503/Human-Frontier/blob/master/Photogrammetry%20User%20Man
 2. Theory part: (Calculating the minimum scanned pictures required for 3D modeling)  
 https://github.com/zhz503/Human-Frontier/blob/master/theory%20part.pdf  
 3. Photogeometry 3D model:  
-![image](residual leg model.jpg)  
+![image](https://github.com/zhz503/Human-Frontier/blob/master/residual%20leg%20model.jpg)  
 ![image](image2.jpg)  
 
 
