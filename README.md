@@ -13,6 +13,6 @@ https://github.com/zhz503/Human-Frontier/blob/master/Photogrammetry%20User%20Man
 https://github.com/zhz503/Human-Frontier/blob/master/theory%20part.pdf  
 3. Photogeometry 3D model:  
 ![image](https://github.com/zhz503/Human-Frontier/blob/master/residual%20leg%20model.jpg)  
-![image](image2.jpg)  
+![image](https://github.com/zhz503/Human-Frontier/blob/master/image2.png)  
 
 
