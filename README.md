@@ -10,6 +10,7 @@
 1. User Manual :  
 https://github.com/zhz503/Human-Frontier/blob/master/Photogrammetry%20User%20Manual.pdf  
 2. Theory part: (Calculating the minimum scanned pictures required for 3D modeling)  
+https://github.com/zhz503/Human-Frontier/blob/master/theory%20part.pdf  
 
 
 
