@@ -14,5 +14,5 @@ https://github.com/zhz503/Human-Frontier/blob/master/theory%20part.pdf
 3. Photogeometry 3D model:  
 ![image](https://github.com/zhz503/Human-Frontier/blob/master/residual%20leg%20model.jpg)  
 ![image](https://github.com/zhz503/Human-Frontier/blob/master/image2.png)  
-4. 3D printed Socket
+4. 3D printed Socket  
 ![image](https://github.com/zhz503/Human-Frontier/blob/master/socket.jpg)  
